@@ -8,4 +8,7 @@ Acronym Architecture/Models:
   
 
 Projects(Project name, architecture or model, branch name):
-  1. Tic-Tac-Toe || RL || tic_tac_toe_rl
+  1. Game: Tic-Tac-Toe
+     Model/Architecture: RL
+     Branch: tic_tac_toe_rl
+     Resource: https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542
