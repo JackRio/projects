@@ -1,11 +1,7 @@
 # projects
 
-This repository contains mini projects implemented using various different architecture or models. Most of the projects will be just direct implemetation of someone else work which I will link in this readme overtime. 
-Projects will mostly be implemented using PyTorch but some vanilla python implementation is on the way for few interesting ideas.
+This branch contains vanilla python implementation of Reinforcement Learning(RL) to teach the agent Tic-Tac-Toe.
 
-Acronym Architecture/Models:
-  1. RL: Reinforcement Learning
-  
-
-Projects(Project name, architecture or model, branch name):
-  1. Tic-Tac-Toe || RL || tic_tac_toe_rl
+**Files**:  
+  * **play.py**: Contains the code for training and playing with Human. The agent was trained on 50,000 games with itself and the policy was stored in "policy_Jack" file.  
+  * **policy_Jack**: This file contains the policy information the agent learned by playing with itself.
