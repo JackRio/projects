@@ -5,10 +5,16 @@ Projects will mostly be implemented using PyTorch but some vanilla python implem
 
 Acronym Architecture/Models:
   1. RL: Reinforcement Learning
+  2. Q-Learning
   
 
 Projects(Project name, architecture or model, branch name):
   1. Game: Tic-Tac-Toe
      Model/Architecture: RL
      Branch: tic_tac_toe_rl
-     Resource: https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542
+     Resource: [Reinforcement Learning](https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542)
+    
+  2. Game: Find the target
+     Model/Architecture: RL(Q-Learning)
+     Branch: q_learning_rl
+     Resource: [Q_Learning](https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c)
