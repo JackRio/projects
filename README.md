@@ -15,6 +15,11 @@ Projects(Project name, architecture or model, branch name):
      Resource: [Reinforcement Learning](https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542)
     
   2. Game: Find the target
-     Model/Architecture: RL(Q-Learning)
+     Model/Architecture: RL (Q-Learning)
      Branch: q_learning_rl
      Resource: [Q_Learning](https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c)
+     
+  3. Task: Balance the pole
+     Model/Architecture: RL (Deep Q-Learning)
+     Branch: deep_q_learning_rl
+     Resource: [Deep Q-Learning](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
