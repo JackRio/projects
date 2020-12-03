@@ -5,7 +5,8 @@ Projects will mostly be implemented using PyTorch but some vanilla python implem
 
 Acronym Architecture/Models:
   1. RL: Reinforcement Learning
-  2. Q-Learning
+  2. Q-Learning: Quality Learning
+  3. NLP: Naural Language Processing
   
 
 Projects(Project name, architecture or model, branch name):
@@ -23,3 +24,9 @@ Projects(Project name, architecture or model, branch name):
      Model/Architecture: RL (Deep Q-Learning)
      Branch: deep_q_learning_rl
      Resource: [Deep Q-Learning](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+  
+  4. Task: Audio recognition and sentiment analysis
+     Model/Architecture: spaCy,simple_cnn and PyAudio (NLP)
+     Branch: audio_sentiment_analysis_nlp
+     Resource: [Python Speech Recognition](https://realpython.com/python-speech-recognition/)
+   
